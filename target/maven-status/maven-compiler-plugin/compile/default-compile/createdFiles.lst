@@ -1,0 +1,4 @@
+test\sample\JSONService.class
+test\sample\client\NetClientGet.class
+test\sample\client\NetClientPost.class
+test\sample\Product.class
